@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8456A5E4-9006-428B-A3E9-E6C25EFC1344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GzipCompression.API", "src\GzipCompression.API\GzipCompression.API.csproj", "{5AFACB24-F49F-4041-A408-F61398466D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AFACB24-F49F-4041-A408-F61398466D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFACB24-F49F-4041-A408-F61398466D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFACB24-F49F-4041-A408-F61398466D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFACB24-F49F-4041-A408-F61398466D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5AFACB24-F49F-4041-A408-F61398466D94} = {8456A5E4-9006-428B-A3E9-E6C25EFC1344}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1DB2A5-A5BF-4A3A-90C1-8847BD3F60F2}
+	EndGlobalSection
+EndGlobal
